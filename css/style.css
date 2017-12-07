@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+  }
+h1{
+  color:white
+}
+p{
+  color:white;
+  font-family:"times new roman";
+  font-style:italic;
+}
+img{
+padding:30px;
+}
+.btn{
+  background-color:#33d6ff;
+  border-color:white;
+  border-style:solid;
+  border-radius:10px;
+}
+.quotes{
+  background-color:#80e5ff;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:black;
+}
+.quote{
+  font-size:30px;
+}
+.author{
+  font-size:18px;
+}
